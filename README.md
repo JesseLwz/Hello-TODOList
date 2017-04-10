@@ -1,7 +1,9 @@
 # HelloTodolist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+
 參照 https://github.com/wpcfan/awesome-tutorials/blob/master/angular2/ng2-tut/README.md 教學
+
 目前進度 第四章完成
 
 ## Development server
